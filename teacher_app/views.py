@@ -11,7 +11,7 @@ from rest_framework.permissions import IsAuthenticatedOrReadOnly
 
 from teacher_app import serializers
 from teacher_app import models
-from teacher_app import permissions
+# from teacher_app import permissions
 
 
 class HelloApiView(APIView):
