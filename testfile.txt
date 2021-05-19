@@ -1,0 +1,5 @@
+#Create virtula env
+command: python -m venv ~/env
+
+#Create django project
+command: django-admin.py startproject teacher_prj .
